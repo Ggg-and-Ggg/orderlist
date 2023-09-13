@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header 
+{
+  text-align: center;
+  background-color: #ed3d3a;
+  height: 64,
+  padding-inline：5;
+  Height: 64px,
+  flex-direction column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-contentstyle {
+  text-align: 'center';
+  height: 64;
+  line-height: '120px';
+  color: '#fff';
+  background-color: '#108ee9';
+
+}
+
+.container{
+  height: 40px;
+  width:250px; 
+}
+
+input{
+  width:300px;
+  height:80px;
+}
+
